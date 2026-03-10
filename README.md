@@ -1,10 +1,6 @@
 # Distributed Electricity Load Forecasting using Spark and AWS EMR
 
-A scalable, cloud-native Big Data pipeline for forecasting regional electricity consumption across multiple PJM power grid regions. Built as a final project for **Big Data Technologies (CSP-554)** at **Illinois Institute of Technology**.
-
-**Team:** Rohan Singh Rajendra Singh · Meghana Rabba  
-**Submitted to:** Prof. Joseph Rosen · December 10, 2025
-
+A scalable, cloud-native Big Data pipeline for forecasting regional electricity consumption across multiple PJM power grid regions.
 ---
 
 ## Overview
